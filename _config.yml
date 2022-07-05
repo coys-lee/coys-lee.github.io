@@ -31,7 +31,6 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        image: images/profile.jpg
         # link_text: Project Website
         description: | 
           I developed the portal backend provided to engineers through <mark>python</mark>, <mark>graphql</mark>, and <mark>sqlalchemy</mark>, and used all of <mark>mongodb</mark>, <mark>postgresql</mark>, and <mark>oracledb</mark>.
@@ -42,7 +41,6 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-      image: images/monitoring.jpg
         description: | 
             I have built an environment in which <mark>Docker</mark> is created and operated based on container when developers do git push/merge.
             Also, using <mark>metrics, <mark>loki</mark>, <mark>prometheus</mark>, and <mark>grafana</mark>, I have established a real-time monitoring environment for operating services, and a mailing service using <mark>restapi</mark> and <mark>smtp</mark> when a problem occurred.
