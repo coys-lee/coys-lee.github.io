@@ -40,10 +40,10 @@ content:
   - title: Devops Engineer
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - layout: top-middle
         description: | 
             I have built an environment in which <mark>Docker</mark> is created and operated based on container when developers do git push/merge.
-            Also, using <mark>metrics, <mark>loki</mark>, <mark>prometheus</mark>, and <mark>grafana</mark>, I have established a real-time monitoring environment for operating services, and a mailing service using <mark>restapi</mark> and <mark>smtp</mark> when a problem occurred.
+            Also, using <mark>metrics</mark>, <mark>loki</mark>, <mark>prometheus</mark>, and <mark>grafana</mark>, I have established a real-time monitoring environment for operating services, and a mailing service using <mark>restapi</mark> and <mark>smtp</mark> when a problem occurred.
             Currently, I am building <mark>kubernetes</mark> for managing a large number of servers and for service stability.
   
 # Footer
