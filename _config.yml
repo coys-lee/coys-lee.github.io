@@ -22,7 +22,7 @@ linkedin_username: jongmin-lee-984672208
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Jongmin Lee and I'm a Backend & Devops engineer. As well as developing web, I am also good at communicating with people. I have worked at Samsung Electronic(S.LSI) gaining teamwork and leadership skills.
+  Hi, my name is Jongmin Lee and I'm a Backend & Devops engineer. As well as developing web, I am also good at communicating with people. I have worked at Samsung Electronic(S.LSI) gaining teamwork and leadership skills.
 
 content:
   - title: Backend Engineer # Title for the section
